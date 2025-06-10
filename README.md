@@ -1,4 +1,6 @@
-# This repository is a learning space where I revisit and refractor earlier JavaScript projects using Object-Oriented Programming principles. The goal is to deepen my understanding of classes, encapsulation, modularity, and clean code architecture by transforming procedural code into well-structured, object-oriented code.
+# OOP Projects
+
+This repository is a learning space where I revisit and refractor earlier JavaScript projects using Object-Oriented Programming principles. The goal is to deepen my understanding of classes, encapsulation, modularity, and clean code architecture by transforming procedural code into well-structured, object-oriented code.
 
 ## What's inside:
 
